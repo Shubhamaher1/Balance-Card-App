@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Balance-Card-App/static/css/main.3465404d.css",
+    "main.js": "/Balance-Card-App/static/js/main.fe2f6931.js",
+    "static/js/787.3ee44faa.chunk.js": "/Balance-Card-App/static/js/787.3ee44faa.chunk.js",
+    "static/media/logo.svg": "/Balance-Card-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Balance-Card-App/index.html",
+    "main.3465404d.css.map": "/Balance-Card-App/static/css/main.3465404d.css.map",
+    "main.fe2f6931.js.map": "/Balance-Card-App/static/js/main.fe2f6931.js.map",
+    "787.3ee44faa.chunk.js.map": "/Balance-Card-App/static/js/787.3ee44faa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3465404d.css",
+    "static/js/main.fe2f6931.js"
+  ]
+}
